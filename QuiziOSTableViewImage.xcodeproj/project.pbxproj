@@ -12,6 +12,8 @@
 		A051F391201EDE4400F2A627 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A051F38F201EDE4400F2A627 /* Main.storyboard */; };
 		A051F393201EDE4400F2A627 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A051F392201EDE4400F2A627 /* Assets.xcassets */; };
 		A051F396201EDE4400F2A627 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A051F394201EDE4400F2A627 /* LaunchScreen.storyboard */; };
+		A051F39E201EE07500F2A627 /* SosmedTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A051F39D201EE07500F2A627 /* SosmedTableViewController.swift */; };
+		A051F3A0201EE08600F2A627 /* SosmedTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A051F39F201EE08600F2A627 /* SosmedTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		A051F392201EDE4400F2A627 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A051F395201EDE4400F2A627 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A051F397201EDE4400F2A627 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A051F39D201EE07500F2A627 /* SosmedTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SosmedTableViewController.swift; sourceTree = "<group>"; };
+		A051F39F201EE08600F2A627 /* SosmedTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SosmedTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				A051F38B201EDE4300F2A627 /* AppDelegate.swift */,
 				A051F38D201EDE4300F2A627 /* ViewController.swift */,
 				A051F38F201EDE4400F2A627 /* Main.storyboard */,
+				A051F39D201EE07500F2A627 /* SosmedTableViewController.swift */,
+				A051F39F201EE08600F2A627 /* SosmedTableViewCell.swift */,
 				A051F392201EDE4400F2A627 /* Assets.xcassets */,
 				A051F394201EDE4400F2A627 /* LaunchScreen.storyboard */,
 				A051F397201EDE4400F2A627 /* Info.plist */,
@@ -137,6 +143,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A051F38E201EDE4300F2A627 /* ViewController.swift in Sources */,
+				A051F39E201EE07500F2A627 /* SosmedTableViewController.swift in Sources */,
+				A051F3A0201EE08600F2A627 /* SosmedTableViewCell.swift in Sources */,
 				A051F38C201EDE4300F2A627 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
